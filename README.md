@@ -4,7 +4,7 @@ This project contains a collection of automated web tests using **Cypress**, dem
 
 ---
 
-## 🛠️ Project Features / Automated Tests
+## Project Features / Automated Tests
 
 The project covers a variety of common scenarios, including:
 
@@ -21,7 +21,7 @@ The project covers a variety of common scenarios, including:
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Testing Framework:** Cypress
 - **Language:** JavaScript
@@ -30,4 +30,8 @@ The project covers a variety of common scenarios, including:
 
 ---
 
-## 🚀 How t
+##   How to Run
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/cypress-automation-project.git
